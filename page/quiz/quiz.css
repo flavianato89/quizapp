@@ -277,6 +277,11 @@ main {
         height: 28px;
     }
 
+    .tema button div {
+        width: 20px;
+        height: 20px;
+    }
+
     main {
         max-width: 1160px;
         margin-inline: auto;
