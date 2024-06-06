@@ -144,18 +144,17 @@ main {
     margin-bottom: 24px;
 }
 
-.barra_progresso {
+.barra_progresso{
     background: var(--button-bg);
     height: 16px;
     padding: 4px;
     border-radius: 999px;
 }
 
-.barra_progresso div {
+.barra_progresso div{
     height: 100%;
     background: var(--purple);
     border-radius: 999px;
-   
 }
 
 
