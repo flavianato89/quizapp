@@ -29,7 +29,6 @@ function alterarAssunto() {
      assuntoTitulo.innerText = assunto
 }
 
-
 async function buscarPerguntas() {
      const urlDados = "../../data.json";
 
